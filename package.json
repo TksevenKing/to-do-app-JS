@@ -1,0 +1,22 @@
+{
+  "name": "to-do-app-js",
+  "version": "1.0.0",
+  "description": "This is my first  \"to do\" app in JS with main functionnalities such as : adding a task, delete, updating and modifying it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TksevenKing/to-do-app-JS.git"
+  },
+  "keywords": [
+    "to-do-app"
+  ],
+  "author": "OumarKingDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TksevenKing/to-do-app-JS/issues"
+  },
+  "homepage": "https://github.com/TksevenKing/to-do-app-JS#readme"
+}
